@@ -1,17 +1,17 @@
-'''
-# A matrix is important data structure in programming.
-# You can print out the content of a matrix by defining a two by two matrix.
-# You can define a matrix with the value of each element of the matrix.
+"""
+A matrix is important data structure in programming.
+You can print out the content of a matrix by defining a two by two matrix.
+You can define a matrix with the value of each element of the matrix.
 
 
-# Defining a two by two matrix.
+### 1. Defining a two by two matrix.
 
 class Matrix:
     def __init__(self, a11=0, a12=0, a21=0, a22=0):
         self.data = [[a11, a12], [a21, a22]]
 
 
-# Printing out the matrix.
+### 2. Printing out the matrix.
 
 class Matrix:
     def __str__(self):
@@ -21,13 +21,13 @@ mat1 = Matrix()
 
 print(mat1)
 
-# The outcome is the same with following.
-# 0 0
-# 0 0
+The outcome is the same with following.
+0 0
+0 0
 
-# This is because you did not enter any value for each element of the matrix.
-# Thus, a zero matrix(or null matrix) is created.
-'''
+This is because you did not enter any value for each element of the matrix.
+Thus, a zero matrix(or null matrix) is created.
+"""
 
 
 # 1. Create a zero matrix 'mat1' using Matrix() class.

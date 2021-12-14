@@ -1,14 +1,17 @@
-# multiplication calculation buy float numbers
+"""
+multiplication calculation buy float numbers
 
-# A needed calculation for vector class is multiplication by float numbers.
+A needed calculation for vector class is multiplication by float numbers.
 
-# multiplication of vectors by float numbers returns the multiplication of each vector elements
-# while the direction of the vector stays the same.
-# So, multiplication of location values of x and y of a vector by float number
-# returns the multiplied location values of x and y of the vector.
+multiplication of vectors by float numbers returns the multiplication of each vector elements
+while the direction of the vector stays the same.
+So, multiplication of location values of x and y of a vector by float number
+returns the multiplied location values of x and y of the vector.
 
-# multiply method is defined as the follow.
-# You can multiply each element from a vector with the multiply method.
+multiply method is defined as the follow.
+You can multiply each element from a vector with the multiply method.
+"""
+
 
 class Vector:
     def __init__(self, x, y):
@@ -24,8 +27,7 @@ class Vector:
     def minus(self, other):
         return Vector(self.x - other.x, self.y - other.y)
 
-
-# 1. Define multiply method.
+    # 1. Define multiply method.
 
     def multiply(self, multiplier):
         return Vector(self.x * multiplier, self.y * multiplier)

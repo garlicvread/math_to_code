@@ -1,12 +1,11 @@
-# A needed calculation for vector class is addition.
+"""
+A needed calculation for vector class is addition.
 
-# Addition of vectors returns the addition of each vector elements.
-# So, addition of location values of each x and of y, and return the outcome of those means addition of vectors.
+Addition of vectors returns the addition of each vector elements.
+So, addition of location values of each x and of y, and return the outcome of those means addition of vectors.
 
-# Add method is defined as the follow.
-# You can add up the two vectors with the add method.
+"""
 
-# 1. Define add method.
 
 class Vector:
     def __init__(self, x, y):
@@ -15,6 +14,9 @@ class Vector:
 
     def __str__(self):
         return "x : " + str(self.x) + ", y : " + str(self.y)
+
+    # You can add up the two vectors with the 'add' method. 'add' method is defined as the follow.
+    # 1. Define add method.
 
     def add(self, other):
         return Vector(self.x + other.x, self.y + other.y)

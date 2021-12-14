@@ -1,13 +1,11 @@
-# A needed calculation for vector class is subtraction.
+"""
+A needed calculation for vector class is subtraction.
 
-# Subtraction of vectors returns the subtraction of each vector elements.
-# So, subtraction of location values of the second x from the first x, and the second y from the first y,
-# and return the outcome of those means subtraction of vectors.
+Subtraction of vectors returns the subtraction of each vector elements.
+So, subtraction of location values of the second x from the first x, and the second y from the first y,
+and return the outcome of those means subtraction of vectors.
+"""
 
-# minus method is defined as the follow.
-# You can subtract the two vectors with the minus method.
-
-# 1. Define minus method.
 
 class Vector:
     def __init__(self, x, y):
@@ -19,6 +17,9 @@ class Vector:
 
     def add(self, other):
         return Vector(self.x + other.x, self.y + other.y)
+
+# You can subtract the two vectors with the minus method. 'minus' method is defined as the follow.
+# 1. Define minus method.
 
     def minus(self, other):
         return Vector(self.x - other.x, self.y - other.y)

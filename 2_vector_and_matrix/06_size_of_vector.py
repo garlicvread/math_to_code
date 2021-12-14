@@ -1,7 +1,9 @@
-# The formula to get the size of a vector is the same with followig:
-# |v| = square root of (x^2 + y^2)
+"""
+The formula to get the size of a vector is the same with followig:
+|v| = square root of (x^2 + y^2)
 
-# To get the square root of something, math module is needed.
+To get the square root of something, math module is needed.
+"""
 
 import math
 
