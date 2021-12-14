@@ -47,6 +47,5 @@ normalized = vec2.normalize()
 print(normalized)
 
 
-# 4. Print the length of 'normalized'.
-# 1.0
+# 4. Print the length of 'normalized'. Result: 1.0
 print(normalized.length())
