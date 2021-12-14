@@ -1,35 +1,47 @@
-앞서 구현한 행렬 클래스의 특정위치를 반환하거나 수정하는 메소드를 구현 할 수 있습니다.
-
-각 메소드를 get과 set으로 정의하며 방법은 아래와 같습니다.
-
+"""
+Create a method that return of modify specific position of a matrix.
+  1. For returning of specific position of a matrix: 'get' method.
+  2. For modifying of specific position of a matrix: 'set' method.
+"""
 class Matrix:
+    def __init__(self, a11=0, a12=0, a21=0, a22=0):
+        self.data = [[a11, a12], [a21, a22]]
+
+    def __str__(self):
+        return str(self.data[0][0]) + " " + str(self.data[0][1]) + "\n" + str(self.data[1][0]) + " " + str(self.data[1][1]) + "\n"
+
+    # 1. 'get' method: get row(=i) and column(=j) information from input,
+    #                  and return the value from that specific position of the matrix.
     def get(self, i, j):
         return self.data[i-1][j-1]
+
+    # 2. 'set' method: get row(=i) and column(=j) information and the value to save from input,
+    #                  save the value to the specific position of the matrix.
     def set(self, i, j, v):
         self.data[i-1][j-1] = v
-Copy
-get 메소드는 행(iii)과 열(jjj) 위치를 전달받고 해당 위치에 저장된 값을 반환하는 기능을 합니다.
-
-set 메소드는 행(iii)과 열(jjj) 위치 및 지정할 값을 전달받아 해당 위치에 값을 대입합니다.
 
 
-이렇게 해보세요!
-책 p.55, p.56을 참고해서 풀어보세요!
+mat2 = Matrix(1, 2, 3, 4)
 
-1. 행렬의 특정 위치 성분을 반환하는 get함수를 구현하세요.
+# 3. Using 'get' method, print out the elements of (1, 1), (1, 2), (2, 1), (2, 2) in sequence from matrix 'mat2'.
+# Result
+# 1
+# 2
+# 3
+# 4
 
-2. 행렬의 특정 위치 성분을 수정하는 set함수를 구현하세요.
+print(mat2.get(1, 1))
+print(mat2.get(1, 2))
+print(mat2.get(2, 1))
+print(mat2.get(2, 2))
 
-3. mat2의 (1, 1), (1, 2), (2, 1), (2, 2) 성분을 get 함수를 사용하여 순서대로 출력하세요.
 
-4. mat2의 (1, 1), (1, 2), (2, 1), (2, 2) 성분을 set 함수를 사용하여 5, 6, 7, 8로 수정하세요.
-
-실행결과
-
-1
-2
-3
-4
-
-5 6
-7 8
+# 4. Using 'set' method, modify the elements of (1, 1), (1, 2), (2, 1), (2, 2) of 'mat2' as 5, 6, 7, 8 respectively.
+# Result
+# 5 6
+# 7 8
+mat2.set(1, 1, 5)
+mat2.set(1, 2, 6)
+mat2.set(2, 1, 7)
+mat2.set(2, 2, 8)
+print(mat2)
