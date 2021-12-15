@@ -20,14 +20,14 @@ A simple math to codes in python.
 14. [test2](https://github.com/garlicvread/math_to_code/blob/main/1_set_and_proposition/014_test_2.py)
 
 ## 2. Vector and matrix
-01. class of vector
-02. return value of vector location
-03. addition of vectors
-04. subtraction of vectors
-05. float multiplication of vectors
-06. size of vector
-07. vetor normalization
-08. vector: comprehension check
-09. class of matrix
-10. returning and modifying of vector elements
-11. addition and subtraction of matrices
+01. [class of vector](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/01_class_of_vector.py)
+02. [return value of vector location](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/02_return_value_of_vector_location.py)
+03. [addition of vectors](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/03_addition_of_vectors.py)
+04. [subtraction of vectors](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/04_subtraction_of_vectors.py)
+05. [float multiplication of vectors](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/05_float_multiplication_of_vectors.py)
+06. [size of vector](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/06_size_of_vector.py)
+07. [vetor normalization](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/07_vector_normalization.py)
+08. [vector: comprehension check](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/08_vector_comprehension_check.py)
+09. [class of matrix](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/09_class_of_matrix.py)
+10. [returning and modifying of vector elements](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/10_returning_and_modifying_of_vector_elements.py)
+11. [addition and subtraction of matrices](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/11_addition_and%20_subtraction_of_matrices.py)
