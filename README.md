@@ -30,3 +30,4 @@ A simple math to codes in python.
 08. vector: comprehension check
 09. class of matrix
 10. returning and modifying of vector elements
+11. addition and subtraction of matrices
