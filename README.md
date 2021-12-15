@@ -31,4 +31,4 @@ A simple math to codes in python.
 09. [class of matrix](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/09_class_of_matrix.py)
 10. [returning and modifying of vector elements](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/10_returning_and_modifying_of_vector_elements.py)
 11. [addition and subtraction of matrices](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/11_addition_and%20_subtraction_of_matrices.py)
-12. [multiplication of matrix by real number]()
+12. [multiplication of matrix by real number](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/12_multiplication_of_matrix_by_real_number.py)
