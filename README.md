@@ -33,3 +33,4 @@ Simple math to codes in python.
 11. [addition and subtraction of matrices](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/11_addition_and%20_subtraction_of_matrices.py)
 12. [multiplication of matrix by real number](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/12_multiplication_of_matrix_by_real_number.py)
 13. [multiplication between matrices](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/13_multiplication_between_matrices.py)
+14. [comparing two matrices](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/14_comparing_two_matrices.py)
