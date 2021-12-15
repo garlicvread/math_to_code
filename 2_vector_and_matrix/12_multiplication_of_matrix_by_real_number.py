@@ -30,7 +30,7 @@ class Matrix:
     # 'multiplier' here is an inputted real number which will be multiplied to each element of a matrix.
     
     def multiple(self, multiplier):
-        return Matrix(self.data[0][0] * multiplier, self.data[0][1] * multiplier, self.data[1][0]  * multiplier, self.data[1][1]  * multiplier)
+        return Matrix(self.data[0][0] * multiplier, self.data[0][1] * multiplier, self.data[1][0] * multiplier, self.data[1][1] * multiplier)
 
 
 mat1 = Matrix(1, 2, 3, 4)
