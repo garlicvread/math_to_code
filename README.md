@@ -1,5 +1,5 @@
 # math_to_code
-A simple math to codes in python.
+Simple math to codes in python.
 
 
 # Table of contents
