@@ -29,3 +29,4 @@ A simple math to codes in python.
 07. vetor normalization
 08. vector: comprehension check
 09. class of matrix
+10_returning_and_modifying_of_vector_elements.py
