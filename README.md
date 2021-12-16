@@ -35,3 +35,4 @@ Simple math to codes in python.
 13. [multiplication between matrices](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/13_multiplication_between_matrices.py)
 14. [comparing two matrices](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/14_comparing_two_matrices.py)
 15. [identity matrix or not](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/15_identity_matrix_or_not.py)
+16. [checking inverse and identity matrix or not](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/16_checking_inverse_and_identity_matrix_or_not.py)
