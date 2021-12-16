@@ -72,6 +72,9 @@ class Matrix:
 
             # To verify the calculated matrix is an inverse matrix or not,
             # check the multiplication of it and the original matrix becomes an identity matrix.
+            # Note that this Matrix class is not the same numpy matrix.
+            # Thus, if you code like following code, it won't work.
+            # return m*Matrix(self.data[1][1], (-1)*self.data[0][1], (-1)*self.data[1][0], self.data[0][0])  <-- won't work.
             return Matrix(m*self.data[1][1], m*(-1)*self.data[0][1], m*(-1)*self.data[1][0], m*self.data[0][0])
 
 
