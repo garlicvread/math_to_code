@@ -1,5 +1,5 @@
-# 1. 반복문, 조건문을 이용하여 100 이하의 짝수를 원소로 갖는 집합 형성
-# 2. union함수를 사용하여 union객체에 even_under_100와 odd_under_100의 합집합을 저장하고 출력
+# 1. Using for loops and conditional sentences, create sets of even numbers and odd numbers under 100 respectively.
+# 2. Using 'union()'function, store the union of the two sets too the object 'union' then print the result.
 
 def make_even_under_100():
     even_under_100 = set({})
@@ -8,7 +8,7 @@ def make_even_under_100():
         if i % 2 == 0:
             even_under_100.add(i)
             
-    return(even_under_100)
+    return even_under_100
     
     
 def make_odd_under_100():
@@ -18,7 +18,7 @@ def make_odd_under_100():
         if i % 2 != 0:
             odd_under_100.add(i)
             
-    return(odd_under_100)
+    return odd_under_100
 
 
 even = set(make_even_under_100())

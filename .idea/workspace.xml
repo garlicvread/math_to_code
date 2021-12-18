@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f874729c-7ca4-4a7c-8ab7-ff1a6ba4aaa4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/math_to_code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f874729c-7ca4-4a7c-8ab7-ff1a6ba4aaa4" name="Changes" comment="jupytor setting files added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_set_and_proposition/001_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_set_and_proposition/001_set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_set_and_proposition/002_size_of_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_set_and_proposition/002_size_of_set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_set_and_proposition/003_in_and_not_in.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_set_and_proposition/003_in_and_not_in.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_set_and_proposition/004_issubset.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_set_and_proposition/004_issubset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_set_and_proposition/005_union.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_set_and_proposition/005_union.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_set_and_proposition/006_intersection.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_set_and_proposition/006_intersection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_set_and_proposition/007_difference.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_set_and_proposition/007_difference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_set_and_proposition/008_add.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_set_and_proposition/008_add.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_set_and_proposition/009_judge_of_duplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_set_and_proposition/009_judge_of_duplication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_set_and_proposition/010_remove.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_set_and_proposition/010_remove.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_set_and_proposition/011_clear.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_set_and_proposition/011_clear.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_set_and_proposition/012_relative_prime.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_set_and_proposition/012_relative_prime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_set_and_proposition/013_test_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_set_and_proposition/013_test_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_set_and_proposition/014_test_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_set_and_proposition/014_test_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_set_and_proposition/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/3_function_and_graph/05_graph_for_exponential_functions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_function_and_graph/05_graph_for_exponential_functions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +53,16 @@
       <option name="presentableId" value="Default" />
       <updated>1639668458625</updated>
       <workItem from="1639694807965" duration="3427000" />
+      <workItem from="1639787164453" duration="2425000" />
     </task>
+    <task id="LOCAL-00001" summary="jupytor setting files added">
+      <created>1639787304758</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639787304758</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -61,5 +78,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jupytor setting files added" />
+    <option name="LAST_COMMIT_MESSAGE" value="jupytor setting files added" />
   </component>
 </project>

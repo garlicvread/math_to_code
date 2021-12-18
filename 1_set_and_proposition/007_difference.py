@@ -1,4 +1,4 @@
-# difference 함수를 이용하여 set1 객체와 set2 객체의 차집합을 출력
+# Generate 'diff' object ans store the difference of set1 and set2 using difference() function then print it.
 
 set1 = {1, 2, 3}
 set2 = {2, 3, 4, 5, 6}

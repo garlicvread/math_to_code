@@ -1,4 +1,4 @@
-# add 함수를 사용하여  myset 객체에 원소 4, 5, 6을 추가하고 출력
+# Add 4, 5, 6 to an object 'myset' using add() function then print the result..
 
 myset = set({1, 2, 3})
 

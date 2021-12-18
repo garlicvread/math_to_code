@@ -1,4 +1,4 @@
-# remove 함수를 사용하여 myset객체의 원소 6, 5를 삭제 후 출력
+# Using remove() function to remove elements 6 and 5 from 'myset' object then print the result.
 
 myset = {1, 2, 3, 4, 5, 6}
 

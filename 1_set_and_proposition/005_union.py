@@ -1,4 +1,4 @@
-# union 함수로 set1객체와 set2객체의 합집합을 출력
+# Print the unio of set1 and set2 using 'union()' function.
 
 set1 = {1, 2, 3}
 set2 = {2, 3, 4, 5, 6}

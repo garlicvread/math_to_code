@@ -1,4 +1,4 @@
-# clear 함수를 사용하여 myset객체를 공집합으로 변경
+# Using clear() function, turn 'myset' object to an empty set.
 
 myset = {1, 2, 3}
 

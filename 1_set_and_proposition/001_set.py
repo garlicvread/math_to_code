@@ -1,4 +1,4 @@
-# print 함수를 이용하여 set1 객체 출력
+# Print 'set1' object.
 
 set1 = {1, 2, 3}
 set2 = {2, 3, 4, 5, 6}

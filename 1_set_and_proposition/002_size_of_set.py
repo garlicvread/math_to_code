@@ -1,5 +1,5 @@
-# set1, set2, set3, emptyset의 크기 출력.
-# emptyset: 공집합
+# Print the size of 'set1', 'set2', 'set3', 'emptyset' objects.
+# emptyset: an empty set or null set.
 
 set1 = {1, 2, 3}
 set2 = {2, 3, 4, 5, 6}

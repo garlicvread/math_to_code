@@ -1,5 +1,5 @@
-# myset 객체에 원소 4를 두 번 추가한 후 출력
-# 실행결과: {1, 2, 3, 4, 5, 6}
+# Add 3 to 'myset' object twice then print the result.
+# Result: {1, 2, 3, 4, 5, 6}
 
 myset = set({1, 2, 3})
 

@@ -1,4 +1,4 @@
-# 1. 100 이하의 홀수를 원소로 하는 집합 형성
+# Generate a function that can make a set with elements of odd numbers under 100.
 
 def make_odd_under_100():
     odd_under_100 = set({})
