@@ -26,7 +26,7 @@ Simple math to codes in python.
 4. [subtraction of vectors](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/04_subtraction_of_vectors.py)
 5. [float multiplication of vectors](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/05_float_multiplication_of_vectors.py)
 6. [size of vector](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/06_size_of_vector.py)
-7. [vetor normalization](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/07_vector_normalization.py)
+7. [vector normalization](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/07_vector_normalization.py)
 8. [vector: comprehension check](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/08_vector_comprehension_check.py)
 9. [class of matrix](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/09_class_of_matrix.py)
 10. [returning and modifying of vector elements](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/10_returning_and_modifying_of_vector_elements.py)
