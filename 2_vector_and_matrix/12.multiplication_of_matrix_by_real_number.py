@@ -25,9 +25,9 @@ class Matrix:
     def sub(self, other):
         return Matrix(self.data[0][0] - other.data[0][0], self.data[0][1] - other.data[0][1], self.data[1][0] - other.data[1][0], self.data[1][1] - other.data[1][1])
 
-    # Multiplication of a matrix can be defined as following.
-    # The method 'multiple' returns a matrix which has multiplied elements by the multiplier.
-    # 'multiplier' here is an inputted real number which will be multiplied to each element of a matrix.
+    # Multiplication of a matrix can be defined as follows.
+    # The method 'multiple' returns a matrix that has multiplied elements by the multiplier.
+    # 'multiplier' here is an inputted real number that will be multiplied to each element of a matrix.
     
     def multiple(self, multiplier):
         return Matrix(self.data[0][0] * multiplier, self.data[0][1] * multiplier, self.data[1][0] * multiplier, self.data[1][1] * multiplier)

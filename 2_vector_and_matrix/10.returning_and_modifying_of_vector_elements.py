@@ -1,8 +1,10 @@
 """
-Create a method that return of modify specific position of a matrix.
+Create a method that returns or modifies the specific position of a matrix.
   1. For returning of specific position of a matrix: 'get' method.
   2. For modifying of specific position of a matrix: 'set' method.
 """
+
+
 class Matrix:
     def __init__(self, a11=0, a12=0, a21=0, a22=0):
         self.data = [[a11, a12], [a21, a22]]
@@ -10,13 +12,13 @@ class Matrix:
     def __str__(self):
         return str(self.data[0][0]) + " " + str(self.data[0][1]) + "\n" + str(self.data[1][0]) + " " + str(self.data[1][1]) + "\n"
 
-    # 1. 'get' method: get row(=i) and column(=j) information from input,
-    #                  and return the value from that specific position of the matrix.
+    # 1. 'get' method: gets row(=i) and column(=j) information from the input,
+    #                  then returns the value from that specific position of the matrix.
     def get(self, i, j):
         return self.data[i-1][j-1]
 
-    # 2. 'set' method: get row(=i) and column(=j) information and the value to save from input,
-    #                  save the value to the specific position of the matrix.
+    # 2. 'set' method: gets row(=i) and column(=j) information and the value to save from the input,
+    #                  then saves those to the specific position of the matrix.
     def set(self, i, j, v):
         self.data[i-1][j-1] = v
 

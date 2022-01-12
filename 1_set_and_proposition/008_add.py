@@ -1,4 +1,4 @@
-# Add 4, 5, 6 to an object 'myset' using add() function then print the result..
+# Add 4, 5, 6 to an object 'myset' using add() function then print the result.
 
 myset = set({1, 2, 3})
 

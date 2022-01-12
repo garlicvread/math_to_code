@@ -3,11 +3,12 @@ Multiplication of a matrix by an identity matrix
 
 A two by two identity matrix looks like this:
 
-1 0
-0 1
+    1 0
+    0 1
 
-Let the method that identify the given matrix is an identity matrix or not as 'is_identity'.
+Let the method that identifies the given matrix be an identity matrix or not as 'is_identity'.
 """
+
 
 class Matrix:
     def __init__(self, a11=0, a12=0, a21=0, a22=0):
@@ -46,7 +47,7 @@ class Matrix:
                     return False
         return True
 
-    # define a method that identify the given matrix is identity matrix or not as 'is_identity'.
+    # Define a method that identify the given matrix is identity matrix or not as 'is_identity'.
     def is_identity(self):
         for i in range(len(self.data)):
             if self.data[i][i] != 1:
@@ -55,7 +56,7 @@ class Matrix:
 
 
 mat1 = Matrix(1, 0, 0, 1)
-mat2 = Matrix(1, 2 ,3 ,4)
+mat2 = Matrix(1, 2, 3, 4)
 
 # Check if the given matrices mat1 and mat2 are identity matrices or not.
 result1 = mat1.is_identity()

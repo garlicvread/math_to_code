@@ -2,7 +2,7 @@
 To normalize a vector, you need to divide the elements(x and y) by the size of the vector.
 When you normalize a vector, the vector keeps the direction as before, but the size becomes 1.
 
-The vector normalize method divide the elements of a vector by its size then returns the result.
+The vector 'normalize' method divides the elements of a vector by its size then returns the result.
 """
 
 import math
@@ -30,9 +30,8 @@ class Vector:
         # Using self, you can use x and y value of itself.
         return math.sqrt((self.x * self.x) + (self.y * self.y))
 
-
-# vector 'normalize' method is defined as following.
-# 1. Define vector normalize method.
+    # Vector 'normalize' method is defined as following.
+    # 1. Define vector normalize method.
     def normalize(self):
         v_len = self.length()
         return Vector(self.x / v_len, self.y / v_len)

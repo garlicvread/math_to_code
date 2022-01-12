@@ -1,14 +1,14 @@
 """
-The formula to get the size of a vector is the same with followig:
-|v| = square root of (x^2 + y^2)
+The formula to get the size of a vector is the same with following:
+    |v| = square root of (x^2 + y^2)
 
-To get the square root of something, math module is needed.
+To get the square root of something, the 'math' module is needed.
 """
 
 import math
 
 
-# length function is defined as following.
+# The 'length' function is defined as following.
 
 class Vector:
     def __init__(self, x, y):
@@ -33,7 +33,7 @@ class Vector:
         return math.sqrt((self.x * self.x) + (self.y * self.y))
 
 
-# Using length function, you can get the size of vectors.
+# Using 'length' function, you can get the size of vectors.
 vec1 = Vector(1, 1)
 vec2 = Vector(2, 3)
 

@@ -44,17 +44,12 @@ class Matrix:
     # Defining 'inverse' method.
 
     def inverse(self):
-        determinant = self.data[0][0]*self.data[1][1] - self.data[0][1]*self.data[1][0]        
+        determinant = self.data[0][0]*self.data[1][1] - self.data[0][1]*self.data[1][0]
+
         if determinant == 0:
             return None  # When the determinant does not exist, return None.
         else:  # returns the inverse matrix when it does exist.
             m = (1/determinant)
-
-            # To verify the calculated matrix is an inverse matrix or not,
-            # check the multiplication of it and the original matrix becomes an identity matrix.
-            # Note that this Matrix class is not the same numpy matrix.
-            # Thus, if you code like following code, it won't work.
-            # return m*Matrix(self.data[1][1], (-1)*self.data[0][1], (-1)*self.data[1][0], self.data[0][0])  <-- won't work.
             return Matrix(m*self.data[1][1], m*(-1)*self.data[0][1], m*(-1)*self.data[1][0], m*self.data[0][0])
 
     def get_determinant(self):
@@ -62,7 +57,7 @@ class Matrix:
         return determinant
           
 
-mat1 = Matrix(1, 2 ,3 ,4)
+mat1 = Matrix(1, 2, 3, 4)
 
 # Using get_determinant, get the determinant then print it.
 determinant = mat1.get_determinant()

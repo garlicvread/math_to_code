@@ -1,13 +1,14 @@
 """
 Multiplication between matrices
 
-The process of multiplication between matrices is the same with following.
+The process of multiplication between matrices is the same as following.
 
 AB = 1 2 * a b = (1*a+2*c) (1*b+2*d)
      3 4   c d   (3*a+4*c) (3*b+4*d)
 
-The multiplication process between two matrices can be defined as multiply.
+The multiplication process between two matrices can be defined as 'multiply'.
 """
+
 
 class Matrix:
     def __init__(self, a11=0, a12=0, a21=0, a22=0):
@@ -40,7 +41,7 @@ class Matrix:
         )
 
 
-# Input the result of multiply between mat3 and mat4 to mul_mat, and print mul_mat.
+# Input the result of multiply between mat3 and mat4 to mul_mat, and print it.
 # Result
 # 19 22
 # 43 50

@@ -1,15 +1,15 @@
 """
-When a matrix satisfies the following condition, it is called as an inverse matrix.
+When a matrix satisfies the following condition, it is called an inverse matrix.
 
 AX = XA = E, where A is a matrix, X is the inverse matrix, E is an identity matrix.
 
-You can get a inverse matrix of two by two matrix, by calculating the following calculation:
+You can get an inverse matrix of two by two matrix, by calculating the following calculation:
 
 When A = a b
          c d
 
-X = (ad-bc)^-1  *  d -b
-                  -c  a
+X = (ad-bc)^(-1)  *  d -b
+                    -c  a
 
 ad-bc is called 'determinant'.
 """
@@ -70,24 +70,26 @@ class Matrix:
         else:  # returns the inverse matrix when it does exist.
             m = (1/determinant)
 
-            # To verify the calculated matrix is an inverse matrix or not,
-            # check the multiplication of it and the original matrix becomes an identity matrix.
-            # Note that this Matrix class is not the same numpy matrix.
-            # Thus, if you code like following code, it won't work.
-            # return m*Matrix(self.data[1][1], (-1)*self.data[0][1], (-1)*self.data[1][0], self.data[0][0])  <-- won't work.
+            """
+            To verify the calculated matrix is an inverse matrix or not,
+            check the multiplication of it and the original matrix becomes an identity matrix.
+            Note that this Matrix class is not the same NumPy matrix.
+            Thus, if you code like the following, it won't work.
+            
+            return m*Matrix(self.data[1][1], (-1)*self.data[0][1], (-1)*self.data[1][0], self.data[0][0])  <-- won't work.
+            """
             return Matrix(m*self.data[1][1], m*(-1)*self.data[0][1], m*(-1)*self.data[1][0], m*self.data[0][0])
 
 
 mat1 = Matrix(1, 2, 2, 1)
 # print('mat1: \n', mat1)
 
-
-# Caculate the inverse matrix.
+# Calculate the inverse matrix.
 inverse = mat1.inverse()
-# print('inverse:')
+# print('inverse: ')
 # print(inverse)
 
 
-# Check the calculated inverse matrix is really a inverse matrix of the original matrix.
+# Check the calculated inverse matrix is really an inverse matrix of the original matrix.
 identity = mat1.multiply(inverse)
 print(identity.is_identity())

@@ -8,6 +8,7 @@ By subtracting the elements in the same position, you will get the subtraction o
 You can define functions: for addition, 'add' and for subtraction, 'sub'.
 """
 
+
 class Matrix:
     def __init__(self, a11=0, a12=0, a21=0, a22=0):
         self.data = [[a11, a12], [a21, a22]]
@@ -21,15 +22,11 @@ class Matrix:
     def set(self, i, j, v):
         self.data[i-1][j-1] = v
 
-
     # 1. Define 'sum' function.
-
     def add(self, other):
         return Matrix(self.data[0][0] + other.data[0][0], self.data[0][1] + other.data[0][1], self.data[1][0] + other.data[1][0], self.data[1][1] + other.data[1][1])
 
-
     # 2. Define 'sub' function.
-
     def sub(self, other):
         return Matrix(self.data[0][0] - other.data[0][0], self.data[0][1] - other.data[0][1], self.data[1][0] - other.data[1][0], self.data[1][1] - other.data[1][1])
 
