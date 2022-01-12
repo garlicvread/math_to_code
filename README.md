@@ -39,8 +39,8 @@ Simple math to codes in python.
 17. [getting the determinant of two by two matrix](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/17.getting_the_determinant_of_2x2_matrix.py)
 
 ### 3. Function and graph
-1. [generate a dot graph](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/01_generate_a_dot_graph.ipynb)
-2. [generate a line graph](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/02_generate_a_line_graph.ipynb)
-3. [graph for linear functions](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/03_graph_for_linear_functions.ipynb)
-4. [graph for quadratic functions](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/04_graph_for_quadratic_functions.ipynb)
-5. [graph for exponential functions](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/05_graph_for_exponential_functions.ipynb)
+1. [generate a dot graph](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/01.generate_a_dot_graph.ipynb)
+2. [generate a line graph](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/02.generate_a_line_graph.ipynb)
+3. [graph for linear functions](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/03.graph_for_linear_functions.ipynb)
+4. [graph for quadratic functions](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/04.graph_for_quadratic_functions.ipynb)
+5. [graph for exponential functions](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/05.graph_for_exponential_functions.ipynb)
