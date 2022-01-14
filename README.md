@@ -44,3 +44,4 @@ Simple math to codes in python.
 3. [graph for linear functions](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/03.graph_for_linear_functions.ipynb)
 4. [graph for quadratic functions](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/04.graph_for_quadratic_functions.ipynb)
 5. [graph for exponential functions](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/05.graph_for_exponential_functions.ipynb)
+6. [graph for logarithm functions](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/06.graph_for_logarithm_functions.ipynb)
