@@ -45,3 +45,4 @@ Simple math to codes in python.
 4. [graph for quadratic functions](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/04.graph_for_quadratic_functions.ipynb)
 5. [graph for exponential functions](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/05.graph_for_exponential_functions.ipynb)
 6. [graph for logarithm functions](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/06.graph_for_logarithm_functions.ipynb)
+7. [graph for trigonometric functions](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/07.graph_for_trigonometric_functions.ipynb)
