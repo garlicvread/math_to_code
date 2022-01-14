@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f874729c-7ca4-4a7c-8ab7-ff1a6ba4aaa4" name="Changes" comment="File has been changed." />
+    <list default="true" id="f874729c-7ca4-4a7c-8ab7-ff1a6ba4aaa4" name="Changes" comment="File has been changed.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_function_and_graph/05.graph_for_exponential_functions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_function_and_graph/05.graph_for_exponential_functions.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -213,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642183297797</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="File has been changed.">
+      <created>1642183351265</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1642183351265</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
