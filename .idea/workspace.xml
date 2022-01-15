@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f874729c-7ca4-4a7c-8ab7-ff1a6ba4aaa4" name="Changes" comment="Files updated">
-      <change afterPath="$PROJECT_DIR$/4_sequence/01.arithmetic_sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_sequence/02.sum_of_arithmetic_sequences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_sequence/03.geometric_sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_sequence/04.sum_of_geometric_sequences.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_set_and_proposition/007.difference.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_set_and_proposition/007.difference.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_set_and_proposition/008.add.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_set_and_proposition/008.add.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_function_and_graph/08.graph_for_circles.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_function_and_graph/08.graph_for_circles.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_sequence/02.sum_of_arithmetic_sequences.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_sequence/02.sum_of_arithmetic_sequences.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +64,29 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.20485584" />
   </component>
-  <component name="RunManager" selected="Python.02.sum_of_arithmetic_sequences">
+  <component name="RunManager" selected="Python.04.sum_of_geometric_sequences">
+    <configuration name="008.add" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="math_to_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1_set_and_proposition" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_set_and_proposition/008.add.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="01.arithmetic_sequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="math_to_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="17.getting_the_determinant_of_2x2_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03.geometric_sequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="math_to_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,12 +139,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_vector_and_matrix" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_sequence" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_vector_and_matrix/17.getting_the_determinant_of_2x2_matrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_sequence/03.geometric_sequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04.sum_of_geometric_sequences" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="math_to_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,34 +161,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_function_and_graph" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_sequence" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_function_and_graph/2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="math_to_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_function_and_graph" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_function_and_graph/3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_sequence/04.sum_of_geometric_sequences.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.04.sum_of_geometric_sequences" />
+        <item itemvalue="Python.03.geometric_sequence" />
+        <item itemvalue="Python.008.add" />
         <item itemvalue="Python.02.sum_of_arithmetic_sequences" />
         <item itemvalue="Python.01.arithmetic_sequence" />
-        <item itemvalue="Python.17.getting_the_determinant_of_2x2_matrix" />
-        <item itemvalue="Python.3" />
-        <item itemvalue="Python.2" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +200,7 @@
       <workItem from="1641971328786" duration="3542000" />
       <workItem from="1642186635566" duration="5881000" />
       <workItem from="1642198910515" duration="818000" />
-      <workItem from="1642223840293" duration="10629000" />
+      <workItem from="1642223840293" duration="12888000" />
     </task>
     <task id="LOCAL-00001" summary="jupytor setting files added">
       <created>1639787304758</created>
@@ -302,7 +300,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642248333341</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Files updated">
+      <created>1642252841714</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1642252841714</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Files updated">
+      <created>1642252845987</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1642252845987</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,12 +344,15 @@
     <option name="LAST_COMMIT_MESSAGE" value="Files updated" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/math_to_code$03_geometric_sequence.coverage" NAME="03.geometric_sequence Coverage Results" MODIFIED="1642253786036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_sequence" />
     <SUITE FILE_PATH="coverage/math_to_code$sdf.coverage" NAME="sdf Coverage Results" MODIFIED="1641978054647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_function_and_graph" />
     <SUITE FILE_PATH="coverage/math_to_code$1.coverage" NAME="1 Coverage Results" MODIFIED="1639878502981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_function_and_graph" />
     <SUITE FILE_PATH="coverage/math_to_code$2.coverage" NAME="2 Coverage Results" MODIFIED="1641973904930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_function_and_graph" />
     <SUITE FILE_PATH="coverage/math_to_code$02_sum_of_arithmetic_sequences.coverage" NAME="02.sum_of_arithmetic_sequences Coverage Results" MODIFIED="1642252604063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_sequence" />
+    <SUITE FILE_PATH="coverage/math_to_code$008_add.coverage" NAME="008.add Coverage Results" MODIFIED="1642252835728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_set_and_proposition" />
     <SUITE FILE_PATH="coverage/math_to_code$3.coverage" NAME="3 Coverage Results" MODIFIED="1639896084886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_function_and_graph" />
     <SUITE FILE_PATH="coverage/math_to_code$17_getting_the_determinant_of_2x2_matrix.coverage" NAME="17.getting_the_determinant_of_2x2_matrix Coverage Results" MODIFIED="1641973911230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_vector_and_matrix" />
     <SUITE FILE_PATH="coverage/math_to_code$01_arithmetic_sequence.coverage" NAME="01.arithmetic_sequence Coverage Results" MODIFIED="1642250460906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.sequence" />
+    <SUITE FILE_PATH="coverage/math_to_code$04_sum_of_geometric_sequences.coverage" NAME="04.sum_of_geometric_sequences Coverage Results" MODIFIED="1642254985384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_sequence" />
   </component>
 </project>
