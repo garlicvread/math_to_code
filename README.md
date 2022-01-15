@@ -51,3 +51,5 @@ Simple math to codes in python.
 ### 4. Sequences
 1. [arithmetic sequences](https://github.com/garlicvread/math_to_code/blob/main/4_sequence/01.arithmetic_sequence.py)
 2. [sum of arithmetic sequences](https://github.com/garlicvread/math_to_code/blob/main/4_sequence/02.sum_of_arithmetic_sequences.py)
+3. [geometric sequences](https://github.com/garlicvread/math_to_code/blob/main/4_sequence/03.geometric_sequence.py)
+4. [sum of geometric sequences](https://github.com/garlicvread/math_to_code/blob/main/4_sequence/04.sum_of_geometric_sequences.py)
