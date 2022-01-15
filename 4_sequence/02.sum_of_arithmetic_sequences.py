@@ -12,7 +12,7 @@ The equation is:
 Second, use the while loop.
 
 What we are going to do are:
-1. Using the equation, the function 'calculate_arithmetic_sequence_sum'
+1. Using the equation, complete the function 'calculate_arithmetic_sequence_sum'
    that calculates the sum of an arithmetic sequence.
 
 2. Using the while loop, complete the function 'calculate_sequence_sum'
