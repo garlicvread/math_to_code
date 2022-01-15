@@ -47,3 +47,7 @@ Simple math to codes in python.
 6. [graph for logarithm functions](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/06.graph_for_logarithm_functions.ipynb)
 7. [graph for trigonometric functions](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/07.graph_for_trigonometric_functions.ipynb)
 8. [graph for circles](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/08.graph_for_circles.ipynb)
+
+### 4. Sequences
+1. [arithmetic sequences](https://github.com/garlicvread/math_to_code/blob/main/4_sequence/01.arithmetic_sequence.py)
+2. [sum of arithmetic sequences](https://github.com/garlicvread/math_to_code/blob/main/4_sequence/02.sum_of_arithmetic_sequences.py)
