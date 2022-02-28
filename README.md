@@ -57,3 +57,4 @@ Simple math to codes in python.
 6. [handling general sequences 2](https://github.com/garlicvread/math_to_code/blob/main/4_sequence/06.handling_general_sequences_2.py)
 7. [difference sequences](https://github.com/garlicvread/math_to_code/blob/main/4_sequence/07.difference_sequence.py)
 8. [fibonacci sequences](https://github.com/garlicvread/math_to_code/blob/main/4_sequence/08.fibonacci_sequence.py)
+9. [recursive functions](https://github.com/garlicvread/math_to_code/blob/main/4_sequence/09.recursive_functions.py)
