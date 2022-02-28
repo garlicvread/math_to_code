@@ -47,3 +47,13 @@ Simple math to codes in python.
 6. [graph for logarithm functions](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/06.graph_for_logarithm_functions.ipynb)
 7. [graph for trigonometric functions](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/07.graph_for_trigonometric_functions.ipynb)
 8. [graph for circles](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/08.graph_for_circles.ipynb)
+
+### 4. Sequences
+1. [arithmetic sequences](https://github.com/garlicvread/math_to_code/blob/main/4_sequence/01.arithmetic_sequence.py)
+2. [sum of arithmetic sequences](https://github.com/garlicvread/math_to_code/blob/main/4_sequence/02.sum_of_arithmetic_sequences.py)
+3. [geometric sequences](https://github.com/garlicvread/math_to_code/blob/main/4_sequence/03.geometric_sequence.py)
+4. [sum of geometric sequences](https://github.com/garlicvread/math_to_code/blob/main/4_sequence/04.sum_of_geometric_sequences.py)
+5. [handling general sequences 1](https://github.com/garlicvread/math_to_code/blob/main/4_sequence/05.handling_general_sequences_1.py)
+6. [handling general sequences 2](https://github.com/garlicvread/math_to_code/blob/main/4_sequence/06.handling_general_sequences_2.py)
+7. [difference sequences](https://github.com/garlicvread/math_to_code/blob/main/4_sequence/07.difference_sequence.py)
+8. [fibonacci sequences](https://github.com/garlicvread/math_to_code/blob/main/4_sequence/08.fibonacci_sequence.py)
