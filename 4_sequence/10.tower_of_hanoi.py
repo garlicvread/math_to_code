@@ -1,7 +1,7 @@
 """
 Tower of Hanoi
 
-The tower of Hanoi algorithm receives four parameters.
+The tower of the Hanoi algorithm receives four parameters.
 1. n: the number of plates you are going to move.
 2. from_rod: the starting rod you start to move a plate.
 3. to_rod: the ending rod location.
@@ -9,14 +9,14 @@ The tower of Hanoi algorithm receives four parameters.
 
 
 The order of moving plates are as follows:
-1. Using a recursive function, move n-1 of plates from from_rod to aux_rod.
-2. Move the remaining plate from from_rod to to_rod.
-3. Using the recursive function, move n-1 of plates from aux_rod to to_rod.
+1. Using a recursive function, move n-1 of plates from "from_rod" to "aux_rod".
+2. Move the remaining plate from "from_rod" to "to_rod".
+3. Using the recursive function, move n-1 of plates from "aux_rod" to "to_rod".
 
 
 What you are going to do are:
 
-1. Create the function "hanoi" that takes four parameters to solve the tower of Hanoi problem.
+1. Create the function "hanoi" that takes four parameters to solve the Tower of Hanoi problem.
 2. Input 3 to n, "A" to from_rod, "B" to to_rod, "C" to aux_rod then run the function.
 
 
