@@ -1,5 +1,5 @@
 """
-Tower of Hanoi
+The Tower of Hanoi
 
 The tower of the Hanoi algorithm receives four parameters.
 1. n: the number of plates you are going to move.
