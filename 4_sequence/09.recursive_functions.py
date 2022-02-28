@@ -45,10 +45,10 @@ end_number = 100 * n + 10 * n + 1 * n
 
 
 def recursive_sum(starting_number, end_number):
-    if starting_number == end_number:
-        return starting_number
-    else:
+    if starting_number != end_number:
         return starting_number + recursive_sum(starting_number + 1, end_number)
+    else:
+        return starting_number
 
 
 result = recursive_sum(starting_number, end_number)
