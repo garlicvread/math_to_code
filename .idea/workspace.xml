@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f874729c-7ca4-4a7c-8ab7-ff1a6ba4aaa4" name="Changes" comment="Files updated">
-      <change afterPath="$PROJECT_DIR$/etc.adding_big_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/etc.adding_big_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc.adding_big_numbers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,7 +220,7 @@
       <workItem from="1646045147929" duration="2707000" />
       <workItem from="1646083156729" duration="221000" />
       <workItem from="1646220725445" duration="42000" />
-      <workItem from="1646226235071" duration="356000" />
+      <workItem from="1646226235071" duration="538000" />
     </task>
     <task id="LOCAL-00001" summary="jupytor setting files added">
       <created>1639787304758</created>
@@ -363,7 +362,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646052699315</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Files updated">
+      <created>1646226654253</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1646226654253</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -398,7 +404,7 @@
     <SUITE FILE_PATH="coverage/math_to_code$07_difference_sequence.coverage" NAME="07.difference_sequence Coverage Results" MODIFIED="1642258430890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_sequence" />
     <SUITE FILE_PATH="coverage/math_to_code$2.coverage" NAME="2 Coverage Results" MODIFIED="1642648923767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_sequence" />
     <SUITE FILE_PATH="coverage/math_to_code$10_tower_of_hanoi.coverage" NAME="10.tower_of_hanoi Coverage Results" MODIFIED="1646052039571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_sequence" />
-    <SUITE FILE_PATH="coverage/math_to_code$etc_adding_big_numbers.coverage" NAME="etc.adding_big_numbers Coverage Results" MODIFIED="1646226545280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/math_to_code$etc_adding_big_numbers.coverage" NAME="etc.adding_big_numbers Coverage Results" MODIFIED="1646226756108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/math_to_code$06_handling_general_sequences_2.coverage" NAME="06.handling_general_sequences_2 Coverage Results" MODIFIED="1642257214801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_sequence" />
     <SUITE FILE_PATH="coverage/math_to_code$008_add.coverage" NAME="008.add Coverage Results" MODIFIED="1642252835728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_set_and_proposition" />
     <SUITE FILE_PATH="coverage/math_to_code$08_fibonacci_sequence.coverage" NAME="08.fibonacci_sequence Coverage Results" MODIFIED="1646046475728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_sequence" />
