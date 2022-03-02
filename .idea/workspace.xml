@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f874729c-7ca4-4a7c-8ab7-ff1a6ba4aaa4" name="Changes" comment="Files updated">
-      <change afterPath="$PROJECT_DIR$/4_sequence/11.fibonacci_sequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/etc.adding_big_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/etc.adding_big_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_sequence/11.fibonacci_sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_sequence/11.fibonacci_sequence_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11.fibonacci_sequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11.fibonacci_sequence_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="math_to_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +143,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_sequence/11.fibonacci_sequence.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\raymond\IdeaProjects\math_to_code\4_sequence\11.fibonacci_sequence_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,7 +177,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.etc.adding_big_numbers" />
-        <item itemvalue="Python.11.fibonacci_sequence" />
+        <item itemvalue="Python.11.fibonacci_sequence_2" />
         <item itemvalue="Python.10.tower_of_hanoi" />
         <item itemvalue="Python.09.recursive_functions" />
         <item itemvalue="Python.08.fibonacci_sequence" />
@@ -224,7 +222,7 @@
       <workItem from="1646220725445" duration="42000" />
       <workItem from="1646226235071" duration="698000" />
       <workItem from="1646227255548" duration="2517000" />
-      <workItem from="1646234560072" duration="462000" />
+      <workItem from="1646234560072" duration="766000" />
     </task>
     <task id="LOCAL-00001" summary="jupytor setting files added">
       <created>1639787304758</created>
@@ -380,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646226784047</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Files updated">
+      <created>1646235030800</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1646235030800</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
