@@ -11,14 +11,14 @@ To solve this problem, you can use string to store the number.
 2. From the all the way back of the strings, add them.
 3. Store the result in a variable. Let's say the name of the result as 'result'.
 4. The length of the result is maximally 2.
-Thus, If the length of the result is 2,
-store the first character of the result to another variable called "carry_sum".
+   Thus, If the length of the result is 2,
+   store the first character of the result to another variable called "carry_sum".
 6. Repeat this process to the next digit.
-In this time, you need to calculate the sum of the second digits of the strings + the "carry_sum".
+   In this time, you need to calculate the sum of the second digits of the strings + the "carry_sum".
 7. If the length of calculation is 2,
-store the first character of the result to 'carry_sum' and the second character to 'result'.
+   store the first character of the result to 'carry_sum' and the second character to 'result'.
 8. Repeat this process until there is no left characters for both strings.
-    9. If there is a "carry_sum" left, add it to the end of the result.
+9. If there is a "carry_sum" left, add it to the end of the result.
 10. Reverse the result, and return it.
 """
 
