@@ -6,7 +6,7 @@ Simple math to codes in python.
 ### 1. Sets and Propositions
 1. [set](https://github.com/garlicvread/math_to_code/blob/main/1_set_and_proposition/001.set.py)
 2. [size of set](https://github.com/garlicvread/math_to_code/blob/main/1_set_and_proposition/002.the_size_of_set.py)
-3. [in and not it](https://github.com/garlicvread/math_to_code/blob/main/1_set_and_proposition/003.in_and_not_in.py)
+3. [in and not in](https://github.com/garlicvread/math_to_code/blob/main/1_set_and_proposition/003.in_and_not_in.py)
 4. [issubset](https://github.com/garlicvread/math_to_code/blob/main/1_set_and_proposition/004.issubset.py)
 5. [union](https://github.com/garlicvread/math_to_code/blob/main/1_set_and_proposition/005.union.py)
 6. [intersection](https://github.com/garlicvread/math_to_code/blob/main/1_set_and_proposition/006.intersection.py)
