@@ -40,7 +40,8 @@ Simple math to codes in python.
 
 ### 3. Functions and Graphs
 1. [generate a dot graph](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/01.generate_a_dot_graph.ipynb)
-2. [generate a line graph](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/02.generate_a_line_graph.ipynb)
+2. [generate a line graph 1](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/02.generate_a_line_graph1.ipynb)
+3. [generate a line graph 2](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/03.generate_a_line_graph2.ipynb)
 3. [graph for linear functions](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/03.graph_for_linear_functions.ipynb)
 4. [graph for quadratic functions](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/04.graph_for_quadratic_functions.ipynb)
 5. [graph for exponential functions](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/05.graph_for_exponential_functions.ipynb)
