@@ -1,6 +1,15 @@
 # math_to_code
-Simple math written in python.
+### Simple math codes that were written in Python.
 
+The reason why these codes were written in Python is that the Python codes are very similar to the pseudo codes, so they are really easy to read.
+
+Even if you are not that familiar with the English language, you can still read and understand them.
+
+Follow the codes and explanations step by step, and you will understand the basics of math.
+
+If you have any questions about the Math concept or codes below, contact me via [![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:try2quit@korea.ac.kr).
+
+<br>
 
 ## Table of contents
 ### 1. Sets and Propositions
