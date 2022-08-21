@@ -1,9 +1,9 @@
 # math_to_code
-### Simple math codes that were written in Python.
+## Simple math codes that were written in Python.
 
 The reason why these codes were written in Python is that the Python codes are very similar to the pseudo codes, so they are really easy to read.
 
-Even if you are not that familiar with the English language, you can still read and understand them.
+Thanks to `Google translate`, you can still read and understand the contents even if you are not that familiar with the English language, I guess.
 
 Follow the codes and explanations step by step, and you will understand the basics of math.
 
@@ -11,8 +11,20 @@ If you have any questions about the Math concept or codes below, contact me via 
 
 <br>
 
+## This repository will deal with:
+1. Sets and propositions (집합과 명제 in Korean)
+2. Vectors and matrices (벡터와 행렬 in Korean)
+3. Functions and graphs
+4. Sequences (수열 in Korean)
+5. Limits and continuity of functions (함수의 극한과 연속 in Korean)
+6. Differential (미분 in Korean)
+7. Integral (적분 in Korean)
+8. Probability and statistics (확률과 통계 in Korean)
+
+<br>
+
 ## Table of contents
-### 1. Sets and Propositions
+### 1. Sets and propositions
 1. [set](https://github.com/garlicvread/math_to_code/blob/main/1_set_and_proposition/001.set.py)
 2. [size of set](https://github.com/garlicvread/math_to_code/blob/main/1_set_and_proposition/002.the_size_of_set.py)
 3. [in and not in](https://github.com/garlicvread/math_to_code/blob/main/1_set_and_proposition/003.in_and_not_in.py)
@@ -28,7 +40,7 @@ If you have any questions about the Math concept or codes below, contact me via 
 13. [test1](https://github.com/garlicvread/math_to_code/blob/main/1_set_and_proposition/013.test_1.py)
 14. [test2](https://github.com/garlicvread/math_to_code/blob/main/1_set_and_proposition/014.test_2.py)
 
-### 2. Vectors and Matrices
+### 2. Vectors and matrices
 1. [class of vector](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/01.class_of_vector.py)
 2. [return value of vector location](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/02.return_value_of_vector_location.py)
 3. [addition of vectors](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/03.addition_of_vectors.py)
@@ -47,7 +59,7 @@ If you have any questions about the Math concept or codes below, contact me via 
 16. [checking inverse and identity matrix or not](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/16.checking_inverse_and_identity_matrix_or_not.py)
 17. [getting the determinant of two by two matrix](https://github.com/garlicvread/math_to_code/blob/main/2_vector_and_matrix/17.getting_the_determinant_of_2x2_matrix.py)
 
-### 3. Functions and Graphs
+### 3. Functions and graphs
 1. [generate a dot graph](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/01.generate_a_dot_graph.ipynb)
 2. [generate a line graph 1](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/02.generate_a_line_graph1.ipynb)
 3. [generate a line graph 2](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/03.generate_a_line_graph2.ipynb)
@@ -58,7 +70,8 @@ If you have any questions about the Math concept or codes below, contact me via 
 8. [graph for trigonometric functions](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/08.graph_for_trigonometric_functions.ipynb)
 9. [graph for circles](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/09.graph_for_circles.ipynb)
 10. [composite function](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/10.composite_function.ipynb)
-11. [intersection of a function and its reverse function](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/11.intersection_of_function_and_reverse_function.ipynb)
+11. [intersection of a function and its inverse function 1](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/11.intersection_of_function_and_inverse_function1.ipynb)
+12. [intersection of a function and its inverse function 2](https://github.com/garlicvread/math_to_code/blob/main/3_function_and_graph/12.intersection_of_function_and_inverse_function2.ipynb)
 
 ### 4. Sequences
 1. [arithmetic sequences](https://github.com/garlicvread/math_to_code/blob/main/4_sequence/01.arithmetic_sequence.py)
