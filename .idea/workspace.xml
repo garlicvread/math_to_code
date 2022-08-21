@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f874729c-7ca4-4a7c-8ab7-ff1a6ba4aaa4" name="Changes" comment="Feat: Files updated&#10;&#10;### Motivation&#10;- Whole nodes modification&#10;&#10;### Key Changes&#10;- Notes and some titles have been modified.&#10;&#10;### To Reviewers&#10;- Nothing">
-      <change afterPath="$PROJECT_DIR$/3_function_and_graph/12.intersection_of_function_and_reverse_function2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_function_and_graph/sdfsdf.py" afterDir="false" />
+    <list default="true" id="f874729c-7ca4-4a7c-8ab7-ff1a6ba4aaa4" name="Changes" comment="Feat: intersection of a function and its reverse function (2)&#10;&#10;### Motivation&#10;- The intersection of a function and its reverse function (2).&#10;&#10;### Key Changes&#10;- 12.intersection_of_function_and_reverse_function2.ipynb has been added.&#10;&#10;### To Reviewers&#10;- Nothing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_function_and_graph/11.intersection_of_function_and_reverse_function1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_function_and_graph/11.intersection_of_function_and_reverse_function1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,6 +154,9 @@
       <module name="math_to_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_function_and_graph" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -227,7 +227,7 @@
       <workItem from="1660866081322" duration="954000" />
       <workItem from="1660867073952" duration="2727000" />
       <workItem from="1660940666349" duration="4303000" />
-      <workItem from="1661042150714" duration="990000" />
+      <workItem from="1661042150714" duration="1966000" />
     </task>
     <task id="LOCAL-00001" summary="jupytor setting files added">
       <created>1639787304758</created>
@@ -404,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660944825610</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Feat: intersection of a function and its reverse function (2)&#10;&#10;### Motivation&#10;- The intersection of a function and its reverse function (2).&#10;&#10;### Key Changes&#10;- 12.intersection_of_function_and_reverse_function2.ipynb has been added.&#10;&#10;### To Reviewers&#10;- Nothing">
+      <created>1661043480715</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1661043480715</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,11 +442,13 @@
     <MESSAGE value="Feat: Files updated&#10;&#10;### Motivation&#10;- Composite function&#10;&#10;### Key Changes&#10;- 10.composite_function.ipynb has been updated.&#10;- Other file names have been changed.&#10;&#10;### To Reviewers&#10;- Nothing" />
     <MESSAGE value="Feat: Files updated&#10;&#10;### Motivation&#10;- Reverse function&#10;&#10;### Key Changes&#10;- 11.intersection_of_function_and_reverse_function.ipynb has been added.&#10;&#10;### To Reviewers&#10;- Nothing" />
     <MESSAGE value="Feat: Files updated&#10;&#10;### Motivation&#10;- Whole nodes modification&#10;&#10;### Key Changes&#10;- Notes and some titles have been modified.&#10;&#10;### To Reviewers&#10;- Nothing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Files updated&#10;&#10;### Motivation&#10;- Whole nodes modification&#10;&#10;### Key Changes&#10;- Notes and some titles have been modified.&#10;&#10;### To Reviewers&#10;- Nothing" />
+    <MESSAGE value="Feat: intersection of a function and its reverse function (2)&#10;&#10;### Motivation&#10;- The intersection of a function and its reverse function (2).&#10;&#10;### Key Changes&#10;- 12.intersection_of_function_and_reverse_function2.ipynb has been added.&#10;&#10;### To Reviewers&#10;- Nothing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: intersection of a function and its reverse function (2)&#10;&#10;### Motivation&#10;- The intersection of a function and its reverse function (2).&#10;&#10;### Key Changes&#10;- 12.intersection_of_function_and_reverse_function2.ipynb has been added.&#10;&#10;### To Reviewers&#10;- Nothing" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/math_to_code$07_difference_sequence.coverage" NAME="07.difference_sequence Coverage Results" MODIFIED="1642258430890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_sequence" />
     <SUITE FILE_PATH="coverage/math_to_code$1.coverage" NAME="1 Coverage Results" MODIFIED="1642654604986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_sequence" />
+    <SUITE FILE_PATH="coverage/math_to_code$sdfsdf.coverage" NAME="sdfsdf Coverage Results" MODIFIED="1661043263603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_function_and_graph" />
     <SUITE FILE_PATH="coverage/math_to_code$03_geometric_sequence.coverage" NAME="03.geometric_sequence Coverage Results" MODIFIED="1642253786036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_sequence" />
     <SUITE FILE_PATH="coverage/math_to_code$09_recursive_functions.coverage" NAME="09.recursive_functions Coverage Results" MODIFIED="1646048409807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_sequence" />
     <SUITE FILE_PATH="coverage/math_to_code$008_add.coverage" NAME="008.add Coverage Results" MODIFIED="1642252835728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_set_and_proposition" />
