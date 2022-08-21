@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f874729c-7ca4-4a7c-8ab7-ff1a6ba4aaa4" name="Changes" comment="Feat: Files updated&#10;&#10;### Motivation&#10;- Reverse function&#10;&#10;### Key Changes&#10;- 11.intersection_of_function_and_reverse_function.ipynb has been added.&#10;&#10;### To Reviewers&#10;- Nothing">
+    <list default="true" id="f874729c-7ca4-4a7c-8ab7-ff1a6ba4aaa4" name="Changes" comment="Feat: Files updated&#10;&#10;### Motivation&#10;- Whole nodes modification&#10;&#10;### Key Changes&#10;- Notes and some titles have been modified.&#10;&#10;### To Reviewers&#10;- Nothing">
+      <change afterPath="$PROJECT_DIR$/3_function_and_graph/12.intersection_of_function_and_reverse_function2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_function_and_graph/sdfsdf.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_function_and_graph/04.graph_for_linear_functions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_function_and_graph/04.graph_for_linear_functions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_function_and_graph/05.graph_for_quadratic_functions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_function_and_graph/05.graph_for_quadratic_functions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_function_and_graph/06.graph_for_exponential_functions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_function_and_graph/06.graph_for_exponential_functions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_function_and_graph/07.graph_for_logarithm_functions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_function_and_graph/07.graph_for_logarithm_functions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_function_and_graph/08.graph_for_trigonometric_functions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_function_and_graph/08.graph_for_trigonometric_functions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_function_and_graph/09.graph_for_circles.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_function_and_graph/09.graph_for_circles.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_function_and_graph/10.composite_function.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_function_and_graph/10.composite_function.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_function_and_graph/11.intersection_of_function_and_reverse_function.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_function_and_graph/11.intersection_of_function_and_reverse_function1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_function_and_graph/11.intersection_of_function_and_reverse_function1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_function_and_graph/11.intersection_of_function_and_reverse_function1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +16,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -69,7 +64,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.01-2.generate_a_graph_2">
+  <component name="RunManager" selected="Python.sdfsdf">
     <configuration name="01-1.generate_a_graph_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="math_to_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,13 +153,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sdfsdf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="math_to_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_function_and_graph" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_function_and_graph/sdfsdf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
+      <item itemvalue="Python.sdfsdf" />
       <item itemvalue="Python.01-1.generate_a_graph_1" />
       <item itemvalue="Python.01-2.generate_a_graph_2" />
       <item itemvalue="Python.etc.adding_big_numbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sdfsdf" />
         <item itemvalue="Python.01-2.generate_a_graph_2" />
         <item itemvalue="Python.01-1.generate_a_graph_1" />
         <item itemvalue="Python.etc.adding_big_numbers" />
@@ -210,7 +226,8 @@
       <workItem from="1646226235071" duration="538000" />
       <workItem from="1660866081322" duration="954000" />
       <workItem from="1660867073952" duration="2727000" />
-      <workItem from="1660940666349" duration="4110000" />
+      <workItem from="1660940666349" duration="4303000" />
+      <workItem from="1661042150714" duration="990000" />
     </task>
     <task id="LOCAL-00001" summary="jupytor setting files added">
       <created>1639787304758</created>
@@ -380,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660943472193</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Feat: Files updated&#10;&#10;### Motivation&#10;- Whole nodes modification&#10;&#10;### Key Changes&#10;- Notes and some titles have been modified.&#10;&#10;### To Reviewers&#10;- Nothing">
+      <created>1660944825610</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1660944825610</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -410,7 +434,8 @@
     <MESSAGE value="Feat: Files updated&#10;&#10;### Motivation&#10;- Math codes update&#10;&#10;### Key Changes&#10;- 02.generate_a_line_graph1.ipynb, 03.generate_a_line_graph2.ipynb have been added.&#10;- Some files have been deleted.&#10;&#10;### To Reviewers&#10;- Nothing" />
     <MESSAGE value="Feat: Files updated&#10;&#10;### Motivation&#10;- Composite function&#10;&#10;### Key Changes&#10;- 10.composite_function.ipynb has been updated.&#10;- Other file names have been changed.&#10;&#10;### To Reviewers&#10;- Nothing" />
     <MESSAGE value="Feat: Files updated&#10;&#10;### Motivation&#10;- Reverse function&#10;&#10;### Key Changes&#10;- 11.intersection_of_function_and_reverse_function.ipynb has been added.&#10;&#10;### To Reviewers&#10;- Nothing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Files updated&#10;&#10;### Motivation&#10;- Reverse function&#10;&#10;### Key Changes&#10;- 11.intersection_of_function_and_reverse_function.ipynb has been added.&#10;&#10;### To Reviewers&#10;- Nothing" />
+    <MESSAGE value="Feat: Files updated&#10;&#10;### Motivation&#10;- Whole nodes modification&#10;&#10;### Key Changes&#10;- Notes and some titles have been modified.&#10;&#10;### To Reviewers&#10;- Nothing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Files updated&#10;&#10;### Motivation&#10;- Whole nodes modification&#10;&#10;### Key Changes&#10;- Notes and some titles have been modified.&#10;&#10;### To Reviewers&#10;- Nothing" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/math_to_code$07_difference_sequence.coverage" NAME="07.difference_sequence Coverage Results" MODIFIED="1642258430890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_sequence" />
